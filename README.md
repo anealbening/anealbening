@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anealbening
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and Cypress
 - 📫 How to reach me: anealbening.co.uk
 
 <!---
