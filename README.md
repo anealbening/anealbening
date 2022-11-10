@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anealbening
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Python, ReactJS and Cypress
-- 📫 How to reach me: anealbening.co.uk
+- 📫 How to reach me: https://www.linkedin.com/in/aneal-bening/
 - 💼 I am a Degree Apprentice at Jaguar Land Rover studying Software Engineering
 
 <!---
