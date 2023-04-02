@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anealbening
+- 👋 Hi, I’m @anealbening and this is my personal GitHub profile
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Python (Flask), ReactJS and Cypress
 - 📫 How to reach me: https://www.linkedin.com/in/aneal-bening/
